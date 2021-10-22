@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>35b22972-ea27-419f-a155-d80a4d59b6e0</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>rohan.patil%40anyonehome.com %40123</data>
+   <data>ritesh%40anyonehome.com %40123</data>
+   <data>archana.wandhare%40anyonehome.com %40123</data>
+   <data>agent.lite%40example.com %40123</data>
+   <data>ritesh.sulakhe%40anyonehome.com NBdLhPqAiZyLHvdrHZcu1A%3D%3D</data>
+   <data>nevermore.service%40gmail.com %40123</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>UserName</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Password</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

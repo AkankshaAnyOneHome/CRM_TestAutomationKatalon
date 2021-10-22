@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login successfully with user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ead48e29-f474-4d8d-9a0f-1bbb55d46225</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Login')</defaultValue>
+      <description></description>
+      <id>686ff438-aa05-4381-af41-ac2b430682d1</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Login')</defaultValue>
+      <description></description>
+      <id>2a995ae2-402a-44e4-9df4-eed0d484e61b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
